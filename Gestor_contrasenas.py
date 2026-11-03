@@ -23,14 +23,14 @@ class Aplicacion(tk.Tk):
         self.var_sitio_web = tk.StringVar(value="")
         self.var_usuario = tk.StringVar(value="")
 
-        def construir_interfaz_usuario(self):
+    def construir_interfaz_usuario(self):
 
-            " Creara los widgets, los agrupa, define los botonoes"
-            pad = {"padx":12, "pady": 8}
-            izquierda = ttk.Frame(self) # frame izquierdo
-            izquierda.pack(side="left", fill="both", expand=True, **pad)
-            derecha = ttk.Frame(self, width=280) # frame derecho
-            derecha.pack(side="right", fill="y", padx=(0,12), pady=12)
+        " Creara los widgets, los agrupa, define los botonoes"
+        pad = {"padx":12, "pady": 8}
+        izquierda = ttk.Frame(self) # frame izquierdo
+        izquierda.pack(side="left", fill="both", expand=True, **pad)
+        derecha = ttk.Frame(self, width=280) # frame derecho
+        derecha.pack(side="right", fill="y", padx=(0,12), pady=12)
 
 
 
