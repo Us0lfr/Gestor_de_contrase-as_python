@@ -1,8 +1,7 @@
 # Gestor_de_contraseñas_python
 > Proyecto realizado por **Del Castillo Camacho Osvaldo Ulrick y Téllez Hernández Daniel, Alumnos de la MISTI CULHUACAN.**
 
-El propósito de esta herramienta es contar con un gestor de contraseñas nativo el cual a su vez sugiera contraseñas seguras.
-Eliminando el uso de registros molestos o la recolección de la información del usuario por terciarios no deseados.
+El propósito de esta herramienta es ofrecer un gestor de contraseñas local que sugiera claves robustas, eliminando la necesidad de registros obligatorios y evitando que terceros no deseados recolecten información del usuario.
 
 ---
 
@@ -83,3 +82,15 @@ python3 Gestor-contraseñas.py
 
 ---
 ## Disclosure
+1. Almacenamiento y Privacidad:
+
+**Esta herramienta opera de manera 100% local.** Todas las credenciales se cifran directamente en el dispositivo del usuario. La aplicación no recopila, transmite ni comparte información personal, métricas de uso ni contraseñas con servidores externos o terceros.
+
+2. Responsabilidad de la Contraseña Maestra:
+
+Debido a la arquitectura de cifrado utilizada, el desarrollador no tiene acceso a sus datos ni posee mecanismos para restablecer la contraseña maestra. Si olvida su clave maestra, el acceso a los datos almacenados se perderá de forma permanente.
+
+3. Exención de Garantías y Limitación de Responsabilidad:
+
+Este software se proporciona "tal cual" (AS IS), sin garantías de ningún tipo. *El usuario asume toda la responsabilidad sobre la custodia de sus datos y la seguridad del dispositivo donde se ejecute la herramienta. En ningún caso el autor será responsable por la pérdida de información o daños derivados del uso de este programa.*
+
