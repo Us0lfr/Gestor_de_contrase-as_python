@@ -6,7 +6,7 @@ Eliminando el uso de registros molestos o la recolección de la información del
 
 ---
 
-##  Tecnologías utilizadas
+##  Tecnologías utilizadas :robot:
 
 | Tecnología | Uso |
 |---|---|
@@ -17,7 +17,7 @@ Eliminando el uso de registros molestos o la recolección de la información del
 
 ---
 
-## Instalación y ejecución
+## Instalación y ejecución :beginner:
 > La herramienta está diseñada para correr en sistemas operativos como: Windows, Linux y MacOS.
 
 ### 1. Instalación.
@@ -52,7 +52,34 @@ pip3 install customtkinter CTkMessagebox
 ```
 
 ### 3. Descargar la Herramienta de este repositorio.
-
+> Desde la terminal ( no importa el sistema operativo), copiar y ejecutar el siguiente comando.
 ```bash
 curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
 ```
+
+### 4. Ejecutar. :rocket:
+
+**Windows**
+
+Abre la terminal (CMD o PowerShell) en la carpeta donde descargaste el archivo y ejecuta:
+```bash
+python Gestor-contraseñas.py
+```
+
+**Linux y macOS**
+Abre tu terminal, navega a la carpeta del archivo y ejecuta:
+
+```bash
+chmod +x tu_script.py
+```
+(Esto establece permisos de ejecución del archivo).
+
+```bash
+python3 Gestor-contraseñas.py
+```
+
+---
+## Notas
+
+---
+## Disclosure
