@@ -20,7 +20,7 @@ El propósito de esta herramienta es ofrecer un gestor de contraseñas local que
 > La herramienta está diseñada para correr en sistemas operativos como: Windows, Linux y MacOS.
 
 ### 1. Instalación.
-Instalar python:
+Instalar python: :snake:
 > Python tiene por defecto la herramienta de Tkinter, por lo que sólo requerimos después instalar el módulo de Customtkinter.
 **Windows**
 
@@ -78,10 +78,10 @@ python3 Gestor-contraseñas.py
 ```
 
 ---
-## Notas
+## Notas :notebook:
 
 ---
-## Disclosure
+## Disclosure :warning:
 1. Almacenamiento y Privacidad:
 
 **Esta herramienta opera de manera 100% local.** Todas las credenciales se cifran directamente en el dispositivo del usuario. La aplicación no recopila, transmite ni comparte información personal, métricas de uso ni contraseñas con servidores externos o terceros.
