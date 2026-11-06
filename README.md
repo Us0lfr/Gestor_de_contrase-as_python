@@ -50,7 +50,7 @@ pip install customtkinter CTkMessagebox
 pip3 install customtkinter CTkMessagebox
 ```
 
-### 3. Descargar la Herramienta de este repositorio.
+### 3. Descargar la Herramienta de este repositorio. :arrow_double_down:
 > Desde la terminal ( no importa el sistema operativo), copiar y ejecutar el siguiente comando.
 ```bash
 curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
