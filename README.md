@@ -58,7 +58,7 @@ curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_p
 Posteriormente también descargar el código de la animación de login si se desea.
 
 ```bash
-curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
+curl -o galaxia_login.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/raw/refs/heads/main/galaxia_login
 ```
 
 ### 4. Ejecutar. :rocket:
