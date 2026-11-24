@@ -47,7 +47,7 @@ pip install customtkinter CTkMessagebox
 
 **Linux y MacOs**
 ```bash
-pip3 install customtkinter CTkMessagebox
+pip3 install customtkinter CTkMessagebox cryptography pillow
 ```
 
 ### 3. Descargar la Herramienta de este repositorio. :arrow_double_down:
@@ -55,9 +55,13 @@ pip3 install customtkinter CTkMessagebox
 ```bash
 curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
 ```
+Posteriormente también descargar el código de la animación de login si se desea.
+
+```bash
+curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
+```
 
 ### 4. Ejecutar. :rocket:
-
 **Windows**
 
 Abre la terminal (CMD o PowerShell) en la carpeta donde descargaste el archivo y ejecuta:
