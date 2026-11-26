@@ -42,7 +42,7 @@ brew install python
 ### 2. Instalar los módulos necesarios.
 **Windows**
 ```bash
-pip install customtkinter CTkMessagebox
+pip install customtkinter CTkMessagebox cryptography pillow
 ```
 
 **Linux y MacOs**
@@ -54,11 +54,6 @@ pip3 install customtkinter CTkMessagebox cryptography pillow
 > Desde la terminal ( no importa el sistema operativo), copiar y ejecutar el siguiente comando.
 ```bash
 curl -o Gestor-contraseñas.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/blob/main/Gestor_contrasenas.py
-```
-Posteriormente también descargar el código de la animación de login si se desea.
-
-```bash
-curl -o galaxia_login.py https://github.com/Us0lfr/Gestor_de_contrase-as_python/raw/refs/heads/main/galaxia_login
 ```
 
 ### 4. Ejecutar. :rocket:
