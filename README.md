@@ -90,7 +90,7 @@ python3 Gestor-contraseñas.py
 
 Debido a la arquitectura de cifrado utilizada, el desarrollador no tiene acceso a sus datos ni posee mecanismos para restablecer la contraseña maestra. Si olvida su clave maestra, el acceso a los datos almacenados se perderá de forma permanente.
 
-3. Exención de Garantías y Limitación de Responsabilidad:
+3. Extención de Garantías y Limitación de Responsabilidad:
 
-Este software se proporciona "tal cual" (AS IS), sin garantías de ningún tipo. *El usuario asume toda la responsabilidad sobre la custodia de sus datos y la seguridad del dispositivo donde se ejecute la herramienta. En ningún caso el autor será responsable por la pérdida de información o daños derivados del uso de este programa.*
+Este software se proporciona "tal cual" (AS IS), sin garantías de ningún tipo. *El usuario asume toda la responsabilidad sobre la custodia de sus datos y la seguridad del dispositivo donde se ejecute la herramienta. En ningún caso los autores serán responsables por la pérdida de información o daños derivados del uso de este programa.*
 
