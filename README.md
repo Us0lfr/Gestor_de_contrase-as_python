@@ -22,6 +22,7 @@ El propósito de esta herramienta es ofrecer un gestor de contraseñas local que
 ### 1. Instalación.
 Instalar python: :snake:
 > Python tiene por defecto la herramienta de Tkinter, por lo que sólo requerimos después instalar el módulo de Customtkinter.
+
 **Windows**
 
 ```bash
